@@ -61,6 +61,9 @@
     <Analyzer Include="Y:\Unity Editor\6000.3.10f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Code\FadeAndDestroy.cs" />
+    <Compile Include="Assets\Code\FallTarnish.cs" />
+    <Compile Include="Assets\Code\ObjectSpawner.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
