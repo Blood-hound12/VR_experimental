@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\Unity Projects\\PApasXR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumno\\Documents\\Unity Projects\\PApasXR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@e986f3a5995f\\Runtime\\Inputs\\InputActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@e986f3a5995f\\Runtime\\Inputs\\InputActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E6DA5C9-E85A-292C-5816-83C344213676}|Assembly-CSharp.csproj|c:\\users\\alumno\\documents\\unity projects\\papasxr\\assets\\code\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6DA5C9-E85A-292C-5816-83C344213676}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InputActionManager.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Unity Projects\\PApasXR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@e986f3a5995f\\Runtime\\Inputs\\InputActionManager.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@e986f3a5995f\\Runtime\\Inputs\\InputActionManager.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\Unity Projects\\PApasXR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@e986f3a5995f\\Runtime\\Inputs\\InputActionManager.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@e986f3a5995f\\Runtime\\Inputs\\InputActionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Unity Projects\\PApasXR\\Assets\\Code\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Unity Projects\\PApasXR\\Assets\\Code\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Code\\ObjectSpawner.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T19:30:14.124Z",
+              "WhenOpened": "2026-03-13T13:06:06.397Z",
               "EditorCaption": ""
             }
           ]
